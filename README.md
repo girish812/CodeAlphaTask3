@@ -29,7 +29,7 @@ This repository contains a Social Media Dashboard created using HTML, CSS, and J
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/social-media-dashboard.git
+   git clone https://github.com/girish812/CodeAlphaTask3
    ```
 
 2. Open the project in your preferred code editor.
